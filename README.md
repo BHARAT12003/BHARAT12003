@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a enginnering student<br>
+I'm Engineering Student<br>
 
 
 # 💻 Tech Stack:
